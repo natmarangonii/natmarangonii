@@ -1,4 +1,4 @@
-## Tecnologias
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF5252&section=header"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,flutter&theme=dark" />
@@ -10,6 +10,8 @@
 
 <br>
 
+---
+
 <br>
 
 <picture data-importer="pacman">
@@ -20,7 +22,7 @@
 
 <br>
 
-## Estatísticas do GitHub
+---
 
 <div align="center">
 
@@ -33,6 +35,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5252,100:B71C1C&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5252,100:B71C1C&height=100&section=footer"/>
 
 </div>
