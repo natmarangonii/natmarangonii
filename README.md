@@ -33,22 +33,6 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/linkdin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-E53935?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/insta" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-C62828?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-B71C1C?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5252,100:B71C1C&height=100&section=footer"/>
 
 </div>
