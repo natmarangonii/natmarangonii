@@ -8,11 +8,11 @@
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,prisma&theme=dark" />
 </div> -->
 
-<br>
+<!-- <br>
 
 ---
 
-<br>
+<br> -->
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natmarangonii/natmarangonii/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
