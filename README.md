@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=natmarangonii&theme=radical&hide_border=true&background=0D1117&stroke=FF5252&ring=E53935&fire=FF5252&currStreakLabel=FF5252" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=natmarangonii&theme=radical&hide_border=true&background=0D1117&stroke=FF5252&ring=E53935&fire=FF5252&currStreakLabel=FF5252&dates=FFFFFF" />
 
 
 </div>
