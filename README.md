@@ -1,19 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF5252&section=header"/>
 
-<!-- <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,flutter&theme=dark" />
-</div>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,prisma&theme=dark" />
-</div> -->
-
-<!-- <br>
-
----
-
-<br> -->
-
 <br>
 
 ---
@@ -24,6 +10,10 @@
 
 
 </div>
+
+<br>
+
+---
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natmarangonii/natmarangonii/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
