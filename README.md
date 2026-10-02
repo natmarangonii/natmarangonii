@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF5252&section=header"/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,flutter&theme=dark" />
 </div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,prisma&theme=dark" />
-</div>
+</div> -->
 
 <br>
 
